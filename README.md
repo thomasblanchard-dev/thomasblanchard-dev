@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-🌱 I’m currently learning nextJS
+🌱 I’m currently learning Next JS
 
 ---
 
